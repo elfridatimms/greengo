@@ -1,0 +1,51 @@
+{
+  "vegetacija.geojson": {
+    "dataset_page": "https://data.gov.hr/ckan/en/dataset/topografska-osnova-2018-vegetacija-i-vrste-zemljista",
+    "resource_url": "https://services8.arcgis.com/Usi0jGQwMmBUpFjr/arcgis/rest/services/Topografska_osnova_2018_Vegetacija_i_vrste_zemlji%C5%A1ta/FeatureServer/replicafilescache/Topografska_osnova_2018_Vegetacija_i_vrste_zemlji%C5%A1ta_-351063888473117085.geojson",
+    "bytes": 259456149,
+    "sha256": "b25ee091ad12d3cc50cca565c6e4c8dd1f7e10f3d4a0b6453e630911d75cd4f4",
+    "downloaded_at": "2026-11-03T17:24:06.754847+00:00"
+  },
+  "meta/vegetacija_layers.json": {
+    "dataset_page": "https://data.gov.hr/ckan/en/dataset/topografska-osnova-2018-vegetacija-i-vrste-zemljista",
+    "resource_url": "https://services8.arcgis.com/Usi0jGQwMmBUpFjr/arcgis/rest/services/Topografska_osnova_2018_Vegetacija_i_vrste_zemlji%C5%A1ta/FeatureServer/layers?f=json",
+    "bytes": 23721,
+    "sha256": "6bfafcc854d4736f176954ecb116a08d4cbfa6d9725466b5af02706e9ae4df85",
+    "downloaded_at": "2026-11-03T18:11:25.604844+00:00"
+  },
+  "namjena.geojson": {
+    "dataset_page": "https://data.gov.hr/ckan/en/dataset/geoportal-planirana-namjena-2023",
+    "resource_url": "https://services8.arcgis.com/Usi0jGQwMmBUpFjr/arcgis/rest/services/Geoportal_planirana_namjena/FeatureServer/replicafilescache/Geoportal_planirana_namjena_6350745258229595456.geojson",
+    "bytes": 35197934,
+    "sha256": "483eb1588995a992e2749e6ab149707a0add0d19be606e67b894c8c09f97f549",
+    "downloaded_at": "2026-11-03T17:23:24.003107+00:00"
+  },
+  "vrtovi.geojson": {
+    "dataset_page": "https://data.gov.hr/ckan/en/dataset/geoportal-gradski-vrt",
+    "resource_url": "https://opendata.arcgis.com/api/v3/datasets/9858b1819a914c6ba0fedd0069f2d861_1/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1",
+    "bytes": 25739,
+    "sha256": "ff9b2e068a350d56c148a6127e63a6abfdc0eeffe426ea122d9dc2652c1421c3",
+    "downloaded_at": "2026-11-03T17:23:14.133102+00:00"
+  },
+  "zrak.geojson": {
+    "dataset_page": "https://data.gov.hr/ckan/hr/dataset/geoportal-kvaliteta-zraka",
+    "resource_url": "https://opendata.arcgis.com/api/v3/datasets/ed9898e63ec94770a8fb37713c36f8ca_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1",
+    "bytes": 5558,
+    "sha256": "aadad093a2accdf05faddf91e2f2143634452e4e46f69b4dfb39105249dff11e",
+    "downloaded_at": "2026-11-03T17:23:14.171424+00:00"
+  },
+  "gradske_cetvrti.zip": {
+    "dataset_page": "https://data.gov.hr/ckan/hr/dataset/gradske-cetvrti-prostorna-jedinica-mjesne-samouprave-za-podrucje-grada-zagreba",
+    "resource_url": "https://data.zagreb.hr/dataset/9c52e229-09bf-4569-8e01-37f338070d02/resource/f2406ad9-34bf-4235-aa24-d71a08ae2863/download/rpj_gc.zip",
+    "bytes": 245497,
+    "sha256": "6d7bb86716184ca1860ca578d37de6d6cf1bcc176bec2b56095e2d5a893042b5",
+    "downloaded_at": "2026-11-03T18:12:28.465090+00:00"
+  },
+  "osm_pedestrian.json": {
+    "dataset_page": "https://www.openstreetmap.org/",
+    "resource_url": "https://overpass-api.de/api/interpreter",
+    "bytes": 21937964,
+    "sha256": "945302c303f2375484091e3bedc89ce0c3f5cfc38d2d2ec4f58c693029c99535",
+    "downloaded_at": "2026-11-03T18:14:12.987204+00:00"
+  }
+}
